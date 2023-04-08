@@ -1,0 +1,1 @@
+#define MAX_HUMAN_LIFE 100
